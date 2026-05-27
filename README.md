@@ -5,7 +5,7 @@
 
 ### 🔭 What I'm Focusing On
 - **LLM & AI Agents**: Multi-agent collaboration, tool calling, memory & planning architectures
-- **Deep Learning / ML**: Hands-on with PyTorch, paper reproduction, model fine-tuning & edge deployment
+- **Deep Learning / ML**: Hands-on with PyTorch, model fine-tuning & edge deployment
 - **Software Engineering**: Clean architecture, CI/CD pipelines, containerized workflows & system design
 
 ### 🛠️ Tech Stack
