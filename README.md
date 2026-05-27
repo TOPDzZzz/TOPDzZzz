@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm TOPDzZzz
 
 > 🎓 Software Engineering Major | 🤖 Deep Learning & ML Enthusiast | 🌐 AI Agent Explorer  
-> 🏃‍♂️ Long-Distance Runner | 🏋️‍♂️ Calisthenics Practitioner | 🎮 Anime & Gaming Fan
+> 🏃‍♂️ Long-Distance Runner | 🎮 Anime & Gaming Fan
 
 ### 🔭 What I'm Focusing On
 - **LLM & AI Agents**: Multi-agent collaboration, tool calling, memory & planning architectures
